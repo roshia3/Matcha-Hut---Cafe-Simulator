@@ -105,7 +105,7 @@ Matcha Hut has something for you. 🍡✨
 ✨ Arrays: Makes use of Arrays to check for invalid input for
            - delivery time and method
 
-# =====================================================
+## =====================================================
 
 ## Thank you for visiting Matcha Hut! Enjoy your virtual coffee shop experience. 🌿
 
