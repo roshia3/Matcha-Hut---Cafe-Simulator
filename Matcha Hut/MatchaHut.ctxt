@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MatchaHut
+comment1.params=beverageName\ size
+comment1.target=MatchaHut(java.lang.String,\ java.lang.String)
+comment1.text=\ Constructor\n\ @param\:\ String\ beverageName,\ String\ size\n\ initializes\ parameters\n
+comment2.params=
+comment2.target=void\ displayMenu()
+comment2.text=\ Displays\ menu,\ reading\ from\ menu\ file\n\ \n\ Preconditions\:\n\ -\ The\ file\ "MatchaHut\ Menu.txt"\ must\ exist\ in\ the\ correct\ directory.\n\ -\ The\ file\ must\ be\ readable\ and\ contain\ menu\ items\ in\ text\ format.\n\ \n\ Postconditions\:\n\ -\ The\ contents\ of\ the\ menu\ file\ are\ printed\ to\ the\ console.\n\ -\ If\ the\ file\ is\ missing\ or\ an\ error\ occurs,\ an\ error\ message\ is\ displayed.\n
+numComments=3

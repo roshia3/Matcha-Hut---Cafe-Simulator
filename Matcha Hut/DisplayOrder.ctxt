@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DisplayOrder
+comment1.params=
+comment1.target=void\ displayOrderFromFile()
+comment1.text=\ Reads\ and\ displays\ order\ details\ from\ the\ "order\ details.txt"\ file.\n\ \n\ Preconditions\:\n\ -\ The\ file\ "order\ details.txt"\ must\ exist\ in\ the\ directory.\n\ -\ The\ file\ should\ contain\ order\ details\ in\ a\ readable\ format.\n\ \n\ Postconditions\:\n\ -\ The\ order\ details\ are\ printed\ to\ the\ console\ if\ the\ file\ is\ found.\n\ -\ If\ the\ file\ is\ missing\ or\ cannot\ be\ read,\ an\ error\ message\ is\ displayed.\n
+numComments=2
