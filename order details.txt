@@ -1,0 +1,37 @@
+Order Time: 8:30AM
+Customer Name: Su Zaizai
+Pickup Method: DoorDash
+Beverage Details:
+Other Beverage Order: Small Orange Soda
+- Extra Bubbly: Yes
+- With Ice: Yes
+Price: $3.75
+Delivery Charge: $4.00
+Order Total Price: $11.75
+Total Price (All Items): $11.75
+-----------------------------
+Order Time: 8:30AM
+Customer Name: Su Zaizai
+Pickup Method: DoorDash
+Beverage Details:
+Other Beverage Order: Large Matcha Latte
+- Extra Matcha: Yes
+- Hot/Cold: Cold
+Price: $6.00
+Delivery Charge: $0.00
+Order Total Price: $10.00
+Total Price (All Items): $21.75
+-----------------------------
+Order Time: 8:30AM
+Customer Name: Su Zaizai
+Pickup Method: DoorDash
+Beverage Details:
+Coffee Order: Medium Cappuccino
+- Espresso Shots: 1
+- Temperature: Regular
+- Foam: No Foam
+Price: $4.50
+Delivery Charge: $0.00
+Order Total Price: $8.50
+Total Price (All Items): $30.25
+-----------------------------

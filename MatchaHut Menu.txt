@@ -1,0 +1,72 @@
+Menu
+==============================================
+           WELCOME TO MATCHA HUT CAFE         
+==============================================
+
+------------------ COFFEE -------------------
+1. Espresso
+   - A strong shot of coffee. Price: $2.50
+   - Customizations: Short, Long, Extra Hot, No Foam
+
+2. Latte
+   - Espresso with steamed milk. Price: $3.50
+   - Customizations: 1 or 2 Shots, Extra Hot, No Foam
+
+3. Cappuccino
+   - Espresso with frothy milk. Price: $3.75
+   - Customizations: 1 or 2 Shots, Extra Hot, Extra Foam
+
+4. Americano
+   - Espresso with hot water. Price: $2.75
+   - Customizations: Short, Long, Extra Hot
+
+------------------- TEA ---------------------
+5. Green Tea
+   - Light and refreshing. Price: $2.00
+   - Customizations: None
+
+6. Black Tea
+   - Bold and robust. Price: $2.25
+   - Customizations: Lemon, Half-and-Half, Sugar
+
+7. Chai Latte
+   - Spiced tea with steamed milk. Price: $3.50
+   - Customizations: Extra Spice, Extra Hot
+
+------------- OTHER BEVERAGES ----------------
+8. Hot Chocolate
+   - Rich and creamy. Price: $3.00
+   - Customizations: Whipped Cream, With Marshmellow
+
+9. Matcha Latte
+   - Green tea with steamed milk. Price: $4.00
+   - Customizations: Sweetened, Iced / Hot
+
+10. Iced Coffee
+   - Chilled coffee with milk. Price: $3.25
+   - Customizations: Extra Ice, Sweetened
+   
+11. Strawberry Açai Juice
+   - Sweet and refreshing açai blend. Price: $4.50
+   - Customizations: Extra Sweet, Iced
+
+12. Orange Soda
+   - Classic fizzy orange soda. Price: $3.75
+   - Customizations: Extra Bubbly, With Ice
+
+
+==============================================
+   We offer free customizations for all drinks!
+   Ask our barista for more options.
+
+
+----Price Increase with Size------------------
+   - Small: Base price
+   - Medium: +20%
+   - Large: +50%
+==============================================
+We Are Open 24/7!
+==============================================
+
+
+
