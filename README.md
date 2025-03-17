@@ -1,6 +1,6 @@
 ## 🍵 Matcha Hut - Coffee Shop Simulation
 
-## =======================================================================
+## ========================================
 
 Welcome to Matcha Hut! 
 
@@ -16,7 +16,7 @@ or a refreshing beverage,
 
 Matcha Hut has something for you. 🍡✨
 
-## =======================================================================
+## ==========================================
 
 ## 🍰  About Matcha Hut
 ## ------------------------
@@ -42,7 +42,7 @@ Matcha Hut has something for you. 🍡✨
 🍮 Final Order Summary – See the total price and breakdown before checkout. 
 
            
-## =======================================================================
+## ============================================
 
 ## 🎮 How It Works
 ## --------------------
@@ -55,8 +55,7 @@ Matcha Hut has something for you. 🍡✨
 6. Review Order Summary - Get a final breakdown of your order and total cost. 
 
 
-## =======================================================================
-
+## ============================================
 ## 🛠️ Features
 ## --------------------------------------------
 
@@ -71,7 +70,7 @@ Matcha Hut has something for you. 🍡✨
 🌎 Simulates real-world coffee shop workflows 
 
 
-## ===========================================================================================
+## =================================================
 
 
 ## 🖥️ Java Features Implemented
@@ -106,9 +105,9 @@ Matcha Hut has something for you. 🍡✨
 ✨ Arrays: Makes use of Arrays to check for invalid input for
            - delivery time and method
 
-# ===========================================================================================
+# =====================================================
 
 ## Thank you for visiting Matcha Hut! Enjoy your virtual coffee shop experience. 🌿
 
-## ===========================================================================================
+## =====================================================
 
